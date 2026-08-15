@@ -1,5 +1,26 @@
 {
-  "science": [],
+  "science": [
+  {
+    "title": "Set 1",
+    "file": "solutions/science/set1.pdf"
+  },
+  {
+    "title": "Set 2",
+    "file": "solutions/science/set2.pdf"
+  },
+  {
+    "title": "Set 3",
+    "file": "solutions/science/set3.pdf"
+  },
+  {
+    "title": "Set 4",
+    "file": "solutions/science/set4.pdf"
+  },
+  {
+    "title": "Set 5",
+    "file": "solutions/science/set5.pdf"
+  }
+],
   "maths": [],
   "english": [],
   "nepali": [],
